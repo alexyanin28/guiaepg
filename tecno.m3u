@@ -1,0 +1,459 @@
+#EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="KIDS" user-agent="megapro",ANDROID
+http://tecnotv.club/1julio/android2.php?c=354
+#EXTINF:0 tvg-id="ext" group-title="KIDS" user-agent="megapro",1/7/2021
+http://tecnotv.club/1julio/android2.php?c=354
+#EXTINF:0 tvg-id="ext" group-title="KIDS" user-agent="megapro",Telegram: @Tecnotv
+http://tecnotv.club/1julio/android2.php?c=354
+
+#EXTINF:0 tvg-id="ext" group-title="INFANTIL",TV Galicia Xabarín
+https://infantil-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="INFANTIL",Locomotion
+http://locomotiontv.com/envivo/loco_ch/stream.m3u8
+#EXTINF:0 tvg-id="Tooncast.mx" group-title="INFANTIL",Tooncast
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/725?checkedby:hlscat.com
+#EXTINF:0 tvg-id="ext" group-title="INFANTIL",El Chavo
+https://videostreaming.cloudserverlatam.com/chavotv/chavotv/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="INFANTIL",Monstruos de Verdad
+https://videostreaming.cloudserverlatam.com/kids/kids/chunklist_w780109170.m3u8
+#EXTINF:0 tvg-id="ext" group-title="INFANTIL",Dreiko TV
+https://inliveserver.com:1936/dreikoarts/dreikoarts/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="INFANTIL",Mi TV
+http://162.244.80.176:8081/abr/stream/live/livestream_480p/chunks.m3u8
+#EXTINF:0 tvg-id="ext" group-title="INFANTIL",Retro TV Palmares
+http://tvretropalmares.com:8090/hls/envivo.m3u8
+#EXTINF:0 tvg-id="ext" group-title="INFANTIL",Ipe
+http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
+#EXTINF:0 tvg-id="ext" group-title="INFANTIL",Educa  TV
+https://cloud37.ecuatel.com/educa/educa/chunklist_w483213793.m3u8
+#EXTINF:0 tvg-id="ext" group-title="INFANTIL",Simpson
+https://videostreaming.cloudserverlatam.com/cloudservertv/cloudservertv/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="INFANTIL" user-agent="megapro",Bitme
+http://tecnotv.club/1julio/android2.php?c=354
+#EXTINF:0 tvg-id="ext" group-title="INFANTIL" user-agent="megapro",Locomotion
+http://tecnotv.club/1julio/android2.php?c=355
+#EXTINF:0 tvg-id="Tooncast.mx" group-title="INFANTIL" user-agent="megapro",Tooncast
+http://tecnotv.club/1julio/android2.php?c=107
+#EXTINF:0 tvg-id="CartoonNetwork.mx" group-title="INFANTIL" user-agent="megapro",Cartoon Network
+http://tecnotv.club/1julio/android2.php?c=18
+#EXTINF:0 tvg-id="DiscoveryKids.mx" group-title="INFANTIL" user-agent="megapro",Discovery Kids
+http://tecnotv.club/1julio/android2.php?c=38
+#EXTINF:0 tvg-id="Disney.uk" group-title="INFANTIL" user-agent="megapro",Disney
+http://tecnotv.club/1julio/android2.php?c=43
+#EXTINF:0 tvg-id="DisneyJr.mx" group-title="INFANTIL" user-agent="megapro",Disney JR
+http://tecnotv.club/1julio/android2.php?c=44
+#EXTINF:0 tvg-id="DisneyXD.mx" group-title="INFANTIL" user-agent="megapro",Disney XD
+http://tecnotv.club/1julio/android2.php?c=45
+#EXTINF:0 tvg-id="Nickelodeon.mx" group-title="INFANTIL" user-agent="megapro",Nickelodeon
+http://tecnotv.club/1julio/android2.php?c=121
+#EXTINF:0 tvg-id="NickJr.mx" group-title="INFANTIL" user-agent="megapro",Nick Jr
+http://tecnotv.club/1julio/android2.php?c=122
+#EXTINF:0 tvg-id="Nick2.ar" group-title="INFANTIL" user-agent="megapro",Nick 2
+http://tecnotv.club/1julio/android2.php?c=123
+#EXTINF:0 tvg-id="ext" group-title="INFANTIL" user-agent="megapro",Nat Geo Kids Mex
+http://tecnotv.club/1julio/android2.php?c=126
+#EXTINF:0 tvg-id="ext" group-title="INFANTIL" user-agent="megapro",Nat Geo Kids
+http://tecnotv.club/1julio/android2.php?c=127
+
+#EXTINF:0 tvg-id="AnimalPlanet.mx" group-title="CULTURA" user-agent="megapro",Animal Planet
+http://tecnotv.club/1julio/android2.php?c=3
+#EXTINF:0 tvg-id="DiscoveryChannel.mx" group-title="CULTURA" user-agent="megapro",Discovery Channel
+http://tecnotv.club/1julio/android2.php?c=36
+#EXTINF:0 tvg-id="HomeHealth.mx" group-title="CULTURA" user-agent="megapro",Discovery Home and Health
+http://tecnotv.club/1julio/android2.php?c=37
+#EXTINF:0 tvg-id="DiscoverySci.mx" group-title="CULTURA" user-agent="megapro",Discovery Science
+http://tecnotv.club/1julio/android2.php?c=39
+#EXTINF:0 tvg-id="DiscoveryTurbo.mx" group-title="CULTURA" user-agent="megapro",Discovery Turbo
+http://tecnotv.club/1julio/android2.php?c=41
+#EXTINF:0 tvg-id="Discovery.uk" group-title="CULTURA" user-agent="megapro",Discovery World
+http://tecnotv.club/1julio/android2.php?c=42
+#EXTINF:0 tvg-id="DiscoveryTheatreHD.ar" group-title="CULTURA" user-agent="megapro",Discovery Theater
+http://tecnotv.club/1julio/android2.php?c=40
+#EXTINF:0 tvg-id="Lifetime.mx" group-title="CULTURA" user-agent="megapro",Lifetime
+http://tecnotv.club/1julio/android2.php?c=51
+#EXTINF:0 tvg-id="Investigation.uk" group-title="CULTURA" user-agent="megapro",Investigation Discovery
+http://tecnotv.club/1julio/android2.php?c=52
+#EXTINF:0 tvg-id="H2.mx" group-title="CULTURA" user-agent="megapro",H2
+http://tecnotv.club/1julio/android2.php?c=55
+#EXTINF:0 tvg-id="History.mx" group-title="CULTURA" user-agent="megapro",History Channel
+http://tecnotv.club/1julio/android2.php?c=56
+#EXTINF:0 tvg-id="NatGeoWild.mx" group-title="CULTURA" user-agent="megapro",Nat Geo Wild
+http://tecnotv.club/1julio/android2.php?c=124
+#EXTINF:0 tvg-id="ext" group-title="CULTURA" user-agent="megapro",Nat Geo Mex
+http://tecnotv.club/1julio/android2.php?c=125
+#EXTINF:0 tvg-id="NationalGeographic.uk" group-title="CULTURA" user-agent="megapro",National Geographic Channel
+http://tecnotv.club/1julio/android2.php?c=128
+#EXTINF:0 tvg-id="DiscoveryCivil.mx" group-title="CULTURA" user-agent="megapro",Discovery Civilization
+http://tecnotv.club/1julio/android2.php?c=325
+
+#EXTINF:0 tvg-id="ParamountChannel.mx" group-title="CINE Y SERIES" user-agent="megapro",Paramount Channel
+http://tecnotv.club/1julio/android2.php?c=120
+#EXTINF:0 tvg-id="Multipremier.mx" group-title="CINE Y SERIES" user-agent="megapro",Multipremier
+http://tecnotv.club/1julio/android2.php?c=129
+#EXTINF:0 tvg-id="AMC.mx" group-title="CINE Y SERIES" user-agent="megapro",AMC
+http://tecnotv.club/1julio/android2.php?c=6
+#EXTINF:0 tvg-id="AyE.mx" group-title="CINE Y SERIES" user-agent="megapro",A&E
+http://tecnotv.club/1julio/android2.php?c=1
+#EXTINF:0 tvg-id="AXN.mx" group-title="CINE Y SERIES" user-agent="megapro",AXN
+http://tecnotv.club/1julio/android2.php?c=2
+#EXTINF:0 tvg-id="CinecanalW.mx" group-title="CINE Y SERIES" user-agent="megapro",Cine Canal
+http://tecnotv.club/1julio/android2.php?c=19
+#EXTINF:0 tvg-id="CineLatino.mx" group-title="CINE Y SERIES" user-agent="megapro",Cine Latino
+http://tecnotv.club/1julio/android2.php?c=20
+#EXTINF:0 tvg-id="ext" group-title="CINE Y SERIES" user-agent="megapro",Cinema Dinamita
+http://tecnotv.club/1julio/android2.php?c=21
+#EXTINF:0 tvg-id="ext" group-title="CINE Y SERIES" user-agent="megapro",Cinema Plus
+http://tecnotv.club/1julio/android2.php?c=22
+#EXTINF:0 tvg-id="CityTV.bg" group-title="CINE Y SERIES" user-agent="megapro",City TV
+http://tecnotv.club/1julio/android2.php?c=23
+#EXTINF:0 tvg-id="ext" group-title="CINE Y SERIES" user-agent="megapro",Claro Cinema
+http://tecnotv.club/1julio/android2.php?c=24
+#EXTINF:0 tvg-id="ext" group-title="CINE Y SERIES" user-agent="megapro",De Pelicula Plus
+http://tecnotv.club/1julio/android2.php?c=34
+#EXTINF:0 tvg-id="Golden.mx" group-title="CINE Y SERIES" user-agent="megapro",Golden
+http://tecnotv.club/1julio/android2.php?c=67
+#EXTINF:0 tvg-id="ext" group-title="CINE Y SERIES" user-agent="megapro",Fx Movie Mex
+http://tecnotv.club/1julio/android2.php?c=69
+#EXTINF:0 tvg-id="Fox.mx" group-title="CINE Y SERIES" user-agent="megapro",Fox
+http://tecnotv.club/1julio/android2.php?c=91
+#EXTINF:0 tvg-id="FX.mx" group-title="CINE Y SERIES" user-agent="megapro",FX
+http://tecnotv.club/1julio/android2.php?c=92
+#EXTINF:0 tvg-id="ext" group-title="CINE Y SERIES" user-agent="megapro",Euro Channel
+http://tecnotv.club/1julio/android2.php?c=93
+#EXTINF:0 tvg-id="WarnerChannel.mx" group-title="CINE Y SERIES" user-agent="megapro",Warner Channel
+http://tecnotv.club/1julio/android2.php?c=99
+#EXTINF:0 tvg-id="UniversalChannel.mx" group-title="CINE Y SERIES" user-agent="megapro",Universal Channel
+http://tecnotv.club/1julio/android2.php?c=103
+#EXTINF:0 tvg-id="TNTSeries.cl" group-title="CINE Y SERIES" user-agent="megapro",TNT Series
+http://tecnotv.club/1julio/android2.php?c=109
+#EXTINF:0 tvg-id="TNT.mx" group-title="CINE Y SERIES" user-agent="megapro",TNT
+http://tecnotv.club/1julio/android2.php?c=110
+#EXTINF:0 tvg-id="TLC.mx" group-title="CINE Y SERIES" user-agent="megapro",TLC
+http://tecnotv.club/1julio/android2.php?c=111
+#EXTINF:0 tvg-id="TCM.mx" group-title="CINE Y SERIES" user-agent="megapro",TCM
+http://tecnotv.club/1julio/android2.php?c=112
+#EXTINF:0 tvg-id="TBS.mx" group-title="CINE Y SERIES" user-agent="megapro",TBS
+http://tecnotv.club/1julio/android2.php?c=113
+#EXTINF:0 tvg-id="SundanceChannel.pl" group-title="CINE Y SERIES" user-agent="megapro",Sundance Channel
+http://tecnotv.club/1julio/android2.php?c=114
+#EXTINF:0 tvg-id="StudioUniversal.mx" group-title="CINE Y SERIES" user-agent="megapro",Studio Universal
+http://tecnotv.club/1julio/android2.php?c=115
+#EXTINF:0 tvg-id="Space.mx" group-title="CINE Y SERIES" user-agent="megapro",Space
+http://tecnotv.club/1julio/android2.php?c=116
+#EXTINF:0 tvg-id="Sony.mx" group-title="CINE Y SERIES" user-agent="megapro",Sony
+http://tecnotv.club/1julio/android2.php?c=117
+#EXTINF:0 tvg-id="ISat.mx" group-title="CINE Y SERIES" user-agent="megapro",ISAT
+http://tecnotv.club/1julio/android2.php?c=369
+#EXTINF:0 tvg-id="ext" group-title="CINE Y SERIES" user-agent="megapro",Film&Arts
+http://tecnotv.club/1julio/android2.php?c=370
+#EXTINF:0 tvg-id="SyFy.mx" group-title="CINE Y SERIES" user-agent="megapro",Syfy
+http://tecnotv.club/1julio/android2.php?c=371
+#EXTINF:0 tvg-id="DePelicula.mx" group-title="CINE Y SERIES" user-agent="megapro",De Pelicula
+http://tecnotv.club/1julio/android2.php?c=324
+#EXTINF:0 tvg-id="HBOPlusE.mx" group-title="CINE Y SERIES" user-agent="megapro",HBO plus
+http://tecnotv.club/1julio/android2.php?c=59
+#EXTINF:0 tvg-id="ext" group-title="CINE Y SERIES" user-agent="megapro",HBO Subtitulado
+http://tecnotv.club/1julio/android2.php?c=60
+#EXTINF:0 tvg-id="HBOSignature.mx" group-title="CINE Y SERIES" user-agent="megapro",HBO Signature
+http://tecnotv.club/1julio/android2.php?c=61
+#EXTINF:0 tvg-id="Hbofamily.br" group-title="CINE Y SERIES" user-agent="megapro",HBO Family
+http://tecnotv.club/1julio/android2.php?c=62
+#EXTINF:0 tvg-id="HBO2.mx" group-title="CINE Y SERIES" user-agent="megapro",HBO 2
+http://tecnotv.club/1julio/android2.php?c=63
+#EXTINF:0 tvg-id="HBOHD.mx" group-title="CINE Y SERIES" user-agent="megapro",HBO
+http://tecnotv.club/1julio/android2.php?c=64
+#EXTINF:0 tvg-id="ext" group-title="CINE Y SERIES" user-agent="megapro",Fox Premium Series Subtitulado
+http://tecnotv.club/1julio/android2.php?c=78
+#EXTINF:0 tvg-id="FoxPremiumMovies.ar" group-title="CINE Y SERIES" user-agent="megapro",Fox Premium Movies
+http://tecnotv.club/1julio/android2.php?c=81
+#EXTINF:0 tvg-id="FoxPremiumSeries.ar" group-title="CINE Y SERIES" user-agent="megapro",Fox Premium Series
+http://tecnotv.club/1julio/android2.php?c=79
+#EXTINF:0 tvg-id="FoxPremiumFamily.ar" group-title="CINE Y SERIES" user-agent="megapro",Fox Premium Family
+http://tecnotv.club/1julio/android2.php?c=84
+#EXTINF:0 tvg-id="FoxPremiumComedy.ar" group-title="CINE Y SERIES" user-agent="megapro",Fox Premium Comedy
+http://tecnotv.club/1julio/android2.php?c=85
+#EXTINF:0 tvg-id="FoxClassics.mx" group-title="CINE Y SERIES" user-agent="megapro",Fox Premium Classics
+http://tecnotv.club/1julio/android2.php?c=86
+#EXTINF:0 tvg-id="ext" group-title="CINE Y SERIES" user-agent="megapro",Fox Cinema Subtitulado
+http://tecnotv.club/1julio/android2.php?c=87
+#EXTINF:0 tvg-id="FoxCinema.mx" group-title="CINE Y SERIES" user-agent="megapro",Fox Premium Cinema
+http://tecnotv.club/1julio/android2.php?c=88
+#EXTINF:0 tvg-id="ext" group-title="CINE Y SERIES" user-agent="megapro",Fox Premium Action MX
+http://tecnotv.club/1julio/android2.php?c=89
+#EXTINF:0 tvg-id="FoxPremiumAction.ar" group-title="CINE Y SERIES" user-agent="megapro",Fox Premium Action
+http://tecnotv.club/1julio/android2.php?c=90
+#EXTINF:0 tvg-id="MaxUp.mx" group-title="CINE Y SERIES" user-agent="megapro",Max Up
+http://tecnotv.club/1julio/android2.php?c=131
+#EXTINF:0 tvg-id="Maxprime.br" group-title="CINE Y SERIES" user-agent="megapro",Max Prime
+http://tecnotv.club/1julio/android2.php?c=132
+#EXTINF:0 tvg-id="MAX.mx" group-title="CINE Y SERIES" user-agent="megapro",Max
+http://tecnotv.club/1julio/android2.php?c=133
+#EXTINF:0 tvg-id="ext" group-title="CINE Y SERIES" user-agent="megapro",Golden Plus
+http://tecnotv.club/1julio/android2.php?c=327
+#EXTINF:0 tvg-id="ext" group-title="CINE Y SERIES" user-agent="megapro",Golden Premium
+http://tecnotv.club/1julio/android2.php?c=66
+
+#EXTINF:0 tvg-id="Telemundo.mx" group-title="ENTRETENIMIENTO" user-agent="megapro",Telemundo
+http://tecnotv.club/1julio/android2.php?c=108
+#EXTINF:0 tvg-id="ext" group-title="ENTRETENIMIENTO" user-agent="megapro",RCN Telenovelas
+http://tecnotv.club/1julio/android2.php?c=118
+#EXTINF:0 tvg-id="Pasiones.us" group-title="ENTRETENIMIENTO" user-agent="megapro",Pasiones
+http://tecnotv.club/1julio/android2.php?c=119
+#EXTINF:0 tvg-id="UnivisionEast.us" group-title="ENTRETENIMIENTO" user-agent="megapro",Univision
+http://tecnotv.club/1julio/android2.php?c=102
+#EXTINF:0 tvg-id="Unicable.mx" group-title="ENTRETENIMIENTO" user-agent="megapro",Unicable
+http://tecnotv.club/1julio/android2.php?c=104
+#EXTINF:0 tvg-id="TruTV.uk" group-title="ENTRETENIMIENTO" user-agent="megapro",Tru TV
+http://tecnotv.club/1julio/android2.php?c=105
+#EXTINF:0 tvg-id="TVE.mx" group-title="ENTRETENIMIENTO" user-agent="megapro",Tve
+http://tecnotv.club/1julio/android2.php?c=106
+#EXTINF:0 tvg-id="ext" group-title="ENTRETENIMIENTO" user-agent="megapro",Fox Life Mex
+http://tecnotv.club/1julio/android2.php?c=82
+#EXTINF:0 tvg-id="FoxLife.mx" group-title="ENTRETENIMIENTO" user-agent="megapro",Fox Life
+http://tecnotv.club/1julio/android2.php?c=83
+#EXTINF:0 tvg-id="AzCorazon.mx" group-title="ENTRETENIMIENTO" user-agent="megapro",Az Corazon
+http://tecnotv.club/1julio/android2.php?c=4
+#EXTINF:0 tvg-id="AzMundo.mx" group-title="ENTRETENIMIENTO" user-agent="megapro",Az Mundo
+http://tecnotv.club/1julio/android2.php?c=5
+#EXTINF:0 tvg-id="France24.fr" group-title="ENTRETENIMIENTO" user-agent="megapro",France 24
+http://tecnotv.club/1julio/android2.php?c=71
+#EXTINF:0 tvg-id="Glitz.mx" group-title="ENTRETENIMIENTO" user-agent="megapro",Glitz
+http://tecnotv.club/1julio/android2.php?c=68
+#EXTINF:0 tvg-id="HTV.mx" group-title="ENTRETENIMIENTO" user-agent="megapro",HTV
+http://tecnotv.club/1julio/android2.php?c=57
+#EXTINF:0 tvg-id="HLN.us" group-title="ENTRETENIMIENTO" user-agent="megapro",HLN
+http://tecnotv.club/1julio/android2.php?c=58
+#EXTINF:0 tvg-id="ISat.mx" group-title="ENTRETENIMIENTO" user-agent="megapro",I.Sat
+http://tecnotv.club/1julio/android2.php?c=53
+#EXTINF:0 tvg-id="HolaTV.us" group-title="ENTRETENIMIENTO" user-agent="megapro",Hola TV
+http://tecnotv.club/1julio/android2.php?c=54
+#EXTINF:0 tvg-id="E.ar" group-title="ENTRETENIMIENTO" user-agent="megapro",E !
+http://tecnotv.club/1julio/android2.php?c=46
+#EXTINF:0 tvg-id="ElGourmet.mx" group-title="ENTRETENIMIENTO" user-agent="megapro",El Gourmet
+http://tecnotv.club/1julio/android2.php?c=47
+#EXTINF:0 tvg-id="Maschic.mx" group-title="ENTRETENIMIENTO" user-agent="megapro",Mas Chic
+http://tecnotv.club/1julio/android2.php?c=48
+#EXTINF:0 tvg-id="ComedyCentral.mx" group-title="ENTRETENIMIENTO" user-agent="megapro",Comedy Central
+http://tecnotv.club/1julio/android2.php?c=29
+#EXTINF:0 tvg-id="ext" group-title="ENTRETENIMIENTO" user-agent="megapro",DHE
+http://tecnotv.club/1julio/android2.php?c=31
+#EXTINF:0 tvg-id="DW.al" group-title="ENTRETENIMIENTO" user-agent="megapro",DW
+http://tecnotv.club/1julio/android2.php?c=32
+#EXTINF:0 tvg-id="ConcertChannel.mx" group-title="ENTRETENIMIENTO" user-agent="megapro",Concert Channel
+http://tecnotv.club/1julio/android2.php?c=30
+#EXTINF:0 tvg-id="ext" group-title="ENTRETENIMIENTO" user-agent="megapro",DW America
+http://tecnotv.club/1julio/android2.php?c=33
+#EXTINF:0 tvg-id="Antena3.mx" group-title="ENTRETENIMIENTO" user-agent="megapro",Antena 3 Internacional
+http://tecnotv.club/1julio/android2.php?c=7
+#EXTINF:0 tvg-id="BBCNews.nws" group-title="ENTRETENIMIENTO" user-agent="megapro",BBC World
+http://tecnotv.club/1julio/android2.php?c=8
+#EXTINF:0 tvg-id="BabyTV.uk" group-title="ENTRETENIMIENTO" user-agent="megapro",Baby TV
+http://tecnotv.club/1julio/android2.php?c=9
+#EXTINF:0 tvg-id="Bloomberg.mx" group-title="ENTRETENIMIENTO" user-agent="megapro",Bloomberg
+http://tecnotv.club/1julio/android2.php?c=10
+#EXTINF:0 tvg-id="CNNEspanol.cl" group-title="ENTRETENIMIENTO" user-agent="megapro",CNN Espanol
+http://tecnotv.club/1julio/android2.php?c=11
+#EXTINF:0 tvg-id="CNNInternacional.ar" group-title="ENTRETENIMIENTO" user-agent="megapro",CNN Internacional
+http://tecnotv.club/1julio/android2.php?c=12
+#EXTINF:0 tvg-id="ext" group-title="ENTRETENIMIENTO" user-agent="megapro",Cable Noticias
+http://tecnotv.club/1julio/android2.php?c=13
+#EXTINF:0 tvg-id="ext" group-title="ENTRETENIMIENTO" user-agent="megapro",Canal Claro
+http://tecnotv.club/1julio/android2.php?c=14
+#EXTINF:0 tvg-id="CaracolColombia.cl" group-title="ENTRETENIMIENTO" user-agent="megapro",Caracol
+http://tecnotv.club/1julio/android2.php?c=16
+
+#EXTINF:0 tvg-id="ext" group-title="DEPORTES" user-agent="megapro",Fox Sports 3 Sur
+http://tecnotv.club/1julio/android2.php?c=72
+#EXTINF:0 tvg-id="FoxSports2.mx" group-title="DEPORTES" user-agent="megapro",Fox Sports 2 MX
+http://tecnotv.club/1julio/android2.php?c=74
+#EXTINF:0 tvg-id="ext" group-title="DEPORTES" user-agent="megapro",Fox Sports 2 Sur
+http://tecnotv.club/1julio/android2.php?c=75
+#EXTINF:0 tvg-id="ext" group-title="DEPORTES" user-agent="megapro",Fox Sports 1 Sur
+http://tecnotv.club/1julio/android2.php?c=76
+#EXTINF:0 tvg-id="ext" group-title="DEPORTES" user-agent="megapro",Fox Sports 1 MX
+http://tecnotv.club/1julio/android2.php?c=77
+#EXTINF:0 tvg-id="ClaroSports.mx" group-title="DEPORTES" user-agent="megapro",Claro Sports
+http://tecnotv.club/1julio/android2.php?c=27
+#EXTINF:0 tvg-id="ext" group-title="DEPORTES" user-agent="megapro",Claro Sports Latinoamerica
+http://tecnotv.club/1julio/android2.php?c=28
+#EXTINF:0 tvg-id="GolfChannel.mx" group-title="DEPORTES" user-agent="megapro",Golf Channel
+http://tecnotv.club/1julio/android2.php?c=65
+#EXTINF:0 tvg-id="ext" group-title="DEPORTES" user-agent="megapro",Espn Plus Sur
+http://tecnotv.club/1julio/android2.php?c=94
+#EXTINF:0 tvg-id="ext" group-title="DEPORTES" user-agent="megapro",Espn 3 Sur
+http://tecnotv.club/1julio/android2.php?c=95
+#EXTINF:0 tvg-id="ext" group-title="DEPORTES" user-agent="megapro",Espn 2 Sur
+http://tecnotv.club/1julio/android2.php?c=96
+#EXTINF:0 tvg-id="ext" group-title="DEPORTES" user-agent="megapro",Espn 1 Sur
+http://tecnotv.club/1julio/android2.php?c=97
+#EXTINF:0 tvg-id="ext" group-title="DEPORTES" user-agent="megapro",Win Sports
+http://tecnotv.club/1julio/android2.php?c=98
+#EXTINF:0 tvg-id="ext" group-title="DEPORTES" user-agent="megapro",Gol TV Internacional
+http://tecnotv.club/1julio/android2.php?c=338
+#EXTINF:0 tvg-id="ext" group-title="DEPORTES" user-agent="megapro",Tigo Sports 1
+http://tecnotv.club/1julio/android2.php?c=339
+#EXTINF:0 tvg-id="ext" group-title="DEPORTES" user-agent="megapro",Tigo Sports 2
+http://tecnotv.club/1julio/android2.php?c=340
+#EXTINF:0 tvg-id="ext" group-title="DEPORTES" user-agent="megapro",Tigo Sports 3
+http://tecnotv.club/1julio/android2.php?c=341
+#EXTINF:0 tvg-id="EstrellaTV.us" group-title="DEPORTES" user-agent="megapro",Estrella tv
+http://tecnotv.club/1julio/android2.php?c=342
+#EXTINF:0 tvg-id="ext" group-title="DEPORTES" user-agent="megapro",Bein sports ñ T
+http://tecnotv.club/1julio/android2.php?c=343
+#EXTINF:0 tvg-id="ext" group-title="DEPORTES" user-agent="megapro",Euro Sports 1
+http://tecnotv.club/1julio/android2.php?c=344
+#EXTINF:0 tvg-id="ext" group-title="DEPORTES" user-agent="megapro",Euro Sports 2
+http://tecnotv.club/1julio/android2.php?c=345
+#EXTINF:0 tvg-id="FightBox.pl" group-title="DEPORTES" user-agent="megapro",Fightbox
+http://tecnotv.club/1julio/android2.php?c=346
+#EXTINF:0 tvg-id="ext" group-title="DEPORTES" user-agent="megapro",Fight Time
+http://tecnotv.club/1julio/android2.php?c=347
+#EXTINF:0 tvg-id="MLBNetwork.us" group-title="DEPORTES" user-agent="megapro",MLB Network
+http://tecnotv.club/1julio/android2.php?c=349
+#EXTINF:0 tvg-id="ext" group-title="DEPORTES" user-agent="megapro",Motorsports TV
+http://tecnotv.club/1julio/android2.php?c=350
+#EXTINF:0 tvg-id="ext" group-title="DEPORTES" user-agent="megapro",RedBull
+http://tecnotv.club/1julio/android2.php?c=351
+#EXTINF:0 tvg-id="RealMadridTV.es" group-title="DEPORTES" user-agent="megapro",Real Madrid tv
+http://tecnotv.club/1julio/android2.php?c=352
+#EXTINF:0 tvg-id="ext" group-title="DEPORTES" user-agent="megapro",UFC TV
+http://tecnotv.club/1julio/android2.php?c=353
+#EXTINF:0 tvg-id="MLigaCampeones.es" group-title="DEPORTES" user-agent="megapro",movistar liga de Campeones
+http://tecnotv.club/1julio/android2.php?c=357
+#EXTINF:0 tvg-id="ext" group-title="DEPORTES" user-agent="megapro",Win Sports+
+http://tecnotv.club/1julio/android2.php?c=374
+
+#EXTINF:0 tvg-id="MTVHits.eu" group-title="MUSICA" user-agent="megapro",MTV Hits
+http://tecnotv.club/1julio/android2.php?c=49
+#EXTINF:0 tvg-id="MTV.mx" group-title="MUSICA" user-agent="megapro",MTV
+http://tecnotv.club/1julio/android2.php?c=50
+#EXTINF:0 tvg-id="ext" group-title="MUSICA" user-agent="megapro",Claro Music 1
+http://tecnotv.club/1julio/android2.php?c=25
+#EXTINF:0 tvg-id="ext" group-title="MUSICA" user-agent="megapro",Claro Music 2
+http://tecnotv.club/1julio/android2.php?c=26
+#EXTINF:0 tvg-id="VH1Classic.eu" group-title="MUSICA" user-agent="megapro",Vh1 Classic
+http://tecnotv.club/1julio/android2.php?c=100
+#EXTINF:0 tvg-id="VH1.mx" group-title="MUSICA" user-agent="megapro",Vh1
+http://tecnotv.club/1julio/android2.php?c=101
+#EXTINF:0 tvg-id="MTVLiveHD.uk" group-title="MUSICA" user-agent="megapro",Mtv Live
+http://tecnotv.club/1julio/android2.php?c=130
+
+#EXTINF:0 tvg-id="ext" group-title="24/7" user-agent="megapro",Lazy Town
+http://tecnotv.club/1julio/android2.php?c=235
+#EXTINF:0 tvg-id="ext" group-title="24/7" user-agent="megapro",Barnie y sus amigos
+http://tecnotv.club/1julio/android2.php?c=236
+#EXTINF:0 tvg-id="ext" group-title="24/7" user-agent="megapro",Dora la exploradora
+http://tecnotv.club/1julio/android2.php?c=237
+#EXTINF:0 tvg-id="ext" group-title="24/7" user-agent="megapro",PJ Masks
+http://tecnotv.club/1julio/android2.php?c=238
+#EXTINF:0 tvg-id="ext" group-title="24/7" user-agent="megapro",caillou
+http://tecnotv.club/1julio/android2.php?c=239
+#EXTINF:0 tvg-id="ext" group-title="24/7" user-agent="megapro",Jorge el Curioso
+http://tecnotv.club/1julio/android2.php?c=240
+#EXTINF:0 tvg-id="RedlightHD.ero" group-title="24/7" user-agent="megapro",peppa pig
+http://tecnotv.club/1julio/android2.php?c=241
+#EXTINF:0 tvg-id="ext" group-title="24/7" user-agent="megapro",happy tree friends
+http://tecnotv.club/1julio/android2.php?c=242
+#EXTINF:0 tvg-id="ext" group-title="24/7" user-agent="megapro",Los picapiedras
+http://tecnotv.club/1julio/android2.php?c=243
+#EXTINF:0 tvg-id="ext" group-title="24/7" user-agent="megapro",Le temes a la oscuridad
+http://tecnotv.club/1julio/android2.php?c=244
+#EXTINF:0 tvg-id="ext" group-title="24/7" user-agent="megapro",Pantera Rosa 80s
+http://tecnotv.club/1julio/android2.php?c=245
+#EXTINF:0 tvg-id="ext" group-title="24/7" user-agent="megapro",Correcaminos
+http://tecnotv.club/1julio/android2.php?c=246
+#EXTINF:0 tvg-id="ext" group-title="24/7" user-agent="megapro",Power Rangers
+http://tecnotv.club/1julio/android2.php?c=247
+#EXTINF:0 tvg-id="ext" group-title="24/7" user-agent="megapro",Cuentos Hermanos Grimm
+http://tecnotv.club/1julio/android2.php?c=248
+#EXTINF:0 tvg-id="ext" group-title="24/7" user-agent="megapro",Robotech
+http://tecnotv.club/1julio/android2.php?c=249
+#EXTINF:0 tvg-id="ext" group-title="24/7" user-agent="megapro",Estrenos 2018
+http://tecnotv.club/1julio/android2.php?c=250
+#EXTINF:0 tvg-id="ext" group-title="24/7" user-agent="megapro",El Chapulin Colorado
+http://tecnotv.club/1julio/android2.php?c=251
+#EXTINF:0 tvg-id="ext" group-title="24/7" user-agent="megapro",Death Note
+http://tecnotv.club/1julio/android2.php?c=252
+#EXTINF:0 tvg-id="ext" group-title="24/7" user-agent="megapro",CSI Miami
+http://tecnotv.club/1julio/android2.php?c=253
+#EXTINF:0 tvg-id="ext" group-title="24/7" user-agent="megapro",Alf
+http://tecnotv.club/1julio/android2.php?c=254
+#EXTINF:0 tvg-id="ext" group-title="24/7" user-agent="megapro",X-men 90s
+http://tecnotv.club/1julio/android2.php?c=255
+#EXTINF:0 tvg-id="ext" group-title="24/7" user-agent="megapro",Vete a la Versh
+http://tecnotv.club/1julio/android2.php?c=256
+#EXTINF:0 tvg-id="ext" group-title="24/7" user-agent="megapro",The Walking Dead
+http://tecnotv.club/1julio/android2.php?c=257
+#EXTINF:0 tvg-id="ext" group-title="24/7" user-agent="megapro",Super campeones
+http://tecnotv.club/1julio/android2.php?c=258
+#EXTINF:0 tvg-id="ext" group-title="24/7" user-agent="megapro",strangerthings
+http://tecnotv.club/1julio/android2.php?c=259
+#EXTINF:0 tvg-id="ext" group-title="24/7" user-agent="megapro",Spiderman 80s
+http://tecnotv.club/1julio/android2.php?c=260
+#EXTINF:0 tvg-id="ext" group-title="24/7" user-agent="megapro",Sounth Park
+http://tecnotv.club/1julio/android2.php?c=261
+#EXTINF:0 tvg-id="ext" group-title="24/7" user-agent="megapro",Smallville
+http://tecnotv.club/1julio/android2.php?c=262
+#EXTINF:0 tvg-id="ext" group-title="24/7" user-agent="megapro",Shera
+http://tecnotv.club/1julio/android2.php?c=263
+#EXTINF:0 tvg-id="ext" group-title="24/7" user-agent="megapro",Señor de los cielos
+http://tecnotv.club/1julio/android2.php?c=264
+#EXTINF:0 tvg-id="ext" group-title="24/7" user-agent="megapro",Sailormoon
+http://tecnotv.club/1julio/android2.php?c=265
+#EXTINF:0 tvg-id="ext" group-title="24/7" user-agent="megapro",Pokemon
+http://tecnotv.club/1julio/android2.php?c=266
+#EXTINF:0 tvg-id="ext" group-title="24/7" user-agent="megapro",Pinky y Cerebro
+http://tecnotv.club/1julio/android2.php?c=267
+#EXTINF:0 tvg-id="ext" group-title="24/7" user-agent="megapro",Peliculas Terror
+http://tecnotv.club/1julio/android2.php?c=268
+#EXTINF:0 tvg-id="ext" group-title="24/7" user-agent="megapro",Pablo Escobar
+http://tecnotv.club/1julio/android2.php?c=269
+#EXTINF:0 tvg-id="ext" group-title="24/7" user-agent="megapro",Naruto
+http://tecnotv.club/1julio/android2.php?c=270
+#EXTINF:0 tvg-id="ext" group-title="24/7" user-agent="megapro",Mazinger Z
+http://tecnotv.club/1julio/android2.php?c=271
+#EXTINF:0 tvg-id="ext" group-title="24/7" user-agent="megapro",Malcolm el de enmedio
+http://tecnotv.club/1julio/android2.php?c=272
+#EXTINF:0 tvg-id="ext" group-title="24/7" user-agent="megapro",Luis Miguel
+http://tecnotv.club/1julio/android2.php?c=273
+#EXTINF:0 tvg-id="ext" group-title="24/7" user-agent="megapro",Lucha Libre AAA
+http://tecnotv.club/1julio/android2.php?c=274
+#EXTINF:0 tvg-id="ext" group-title="24/7" user-agent="megapro",Los Thundercats
+http://tecnotv.club/1julio/android2.php?c=275
+#EXTINF:0 tvg-id="ext" group-title="24/7" user-agent="megapro",Los Simpsons
+http://tecnotv.club/1julio/android2.php?c=276
+#EXTINF:0 tvg-id="ext" group-title="24/7" user-agent="megapro",La Rosa de Guadalupe
+http://tecnotv.club/1julio/android2.php?c=277
+#EXTINF:0 tvg-id="ext" group-title="24/7" user-agent="megapro",Heman
+http://tecnotv.club/1julio/android2.php?c=278
+#EXTINF:0 tvg-id="ext" group-title="24/7" user-agent="megapro",Game Of Throne
+http://tecnotv.club/1julio/android2.php?c=279
+#EXTINF:0 tvg-id="ext" group-title="24/7" user-agent="megapro",Futurama
+http://tecnotv.club/1julio/android2.php?c=280
+#EXTINF:0 tvg-id="ext" group-title="24/7" user-agent="megapro",Dragon Ball Z
+http://tecnotv.club/1julio/android2.php?c=281
+#EXTINF:0 tvg-id="ext" group-title="24/7" user-agent="megapro",Dragon Ball Super
+http://tecnotv.club/1julio/android2.php?c=282
+#EXTINF:0 tvg-id="ext" group-title="24/7" user-agent="megapro",Dragon Ball GT
+http://tecnotv.club/1julio/android2.php?c=283
+#EXTINF:0 tvg-id="ext" group-title="24/7" user-agent="megapro",Dragon ball
+http://tecnotv.club/1julio/android2.php?c=284
+#EXTINF:0 tvg-id="ext" group-title="24/7" user-agent="megapro",Dinosaurios
+http://tecnotv.club/1julio/android2.php?c=285
+#EXTINF:0 tvg-id="ext" group-title="24/7" user-agent="megapro",Coraje el perro cobarde
+http://tecnotv.club/1julio/android2.php?c=286
+#EXTINF:0 tvg-id="ext" group-title="24/7" user-agent="megapro",Años Maravillosos
+http://tecnotv.club/1julio/android2.php?c=287
+#EXTINF:0 tvg-id="ext" group-title="24/7" user-agent="megapro",La casa de papel
+http://tecnotv.club/1julio/android2.php?c=288
+#EXTINF:0 tvg-id="ext" group-title="24/7" user-agent="megapro",El chema
+http://tecnotv.club/1julio/android2.php?c=289
+#EXTINF:0 tvg-id="ext" group-title="24/7" user-agent="megapro",El chavo
+http://tecnotv.club/1julio/android2.php?c=290
+#EXTINF:0 tvg-id="ext" group-title="24/7" user-agent="megapro",caballerosdel zodiaco
+http://tecnotv.club/1julio/android2.php?c=291
+#EXTINF:0 tvg-id="ext" group-title="24/7" user-agent="megapro",Breaking bad
+http://tecnotv.club/1julio/android2.php?c=292
+#EXTINF:0 tvg-id="ext" group-title="24/7" user-agent="megapro",Bob Esponja 24/7
+http://tecnotv.club/1julio/android2.php?c=293
+
